@@ -1,0 +1,30 @@
+.inputbox {
+  position: relative;
+  left: 800px;
+  margin-top: 20px;
+}
+.inputbox span {
+  color: white;
+}
+input {
+  margin-left: 6px;
+  background-color: rgba(43, 133, 133, 0.3);
+}
+.insbuscss {
+  background-image: url("../Components/download4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  margin: 0px;
+}
+h1 {
+  margin-left: 400px;
+}
+.sinput {
+  margin-left: 350px;
+  margin-right: 300px;
+  width: 30px;
+  border-radius: 1px;
+  color: white;
+}

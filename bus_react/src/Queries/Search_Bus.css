@@ -1,0 +1,77 @@
+.buscss {
+  background-image: url("../Components/TicketDetails.jpeg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+.busdetails h2 {
+  margin-top: 10px;
+  margin-left: 500px;
+}
+.originInfo input {
+  margin: 15px;
+  border: 1px solid;
+}
+.originInfo {
+  position: absolute;
+  top: 150px;
+  margin-left: 150px;
+}
+.csdestination input {
+  margin: 15px;
+  border: 1px solid;
+}
+.csdestination {
+  position: absolute;
+  left: 550px;
+  top: 150px;
+}
+
+.csdate input {
+  margin: 15px;
+  border: 1px solid;
+}
+.csdate {
+  position: absolute;
+  left: 920px;
+  top: 150px;
+}
+.Submit {
+  /* /* position: absolute; */
+  margin-left: 530px;
+  margin-top: 150px;
+  width: 5vh;
+}
+
+.detailstable {
+  width: 90%;
+  margin: 10px;
+  left: 10px;
+  top: 300px;
+  position: absolute;
+}
+
+.detailstable > table,
+th,
+td {
+  border: 1px solid black;
+}
+.detailstable > table {
+  width: 100%;
+}
+
+.detailstable > th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+.detailstable > tr:hover {
+  background-color: #f5f5f5;
+}
+
+.detailstable > th {
+  background-color: #4caf50;
+  color: white;
+}

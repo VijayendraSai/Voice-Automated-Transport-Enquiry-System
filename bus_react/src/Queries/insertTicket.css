@@ -1,0 +1,68 @@
+.InsTic {
+  background-image: url("../Components/insTic.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  margin: 0px;
+}
+h1 {
+  position: absolute;
+  left: 550px;
+  top: 10px;
+  color: white;
+}
+input {
+  margin-left: 5px;
+  background-color: rgba(190, 237, 254, 0.3);
+  border: 1px solid white;
+  border-radius: 3px;
+}
+.minput1 {
+  /*position: absolute;*/
+  margin-top: 90px;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+.minput2 {
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 360px;
+  margin-bottom: 15px;
+}
+.minput3 {
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 650px;
+  margin-bottom: 15px;
+}
+.minput4 {
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 1200px;
+  margin-bottom: 15px;
+}
+.minput5 {
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 250px;
+  margin-bottom: 15px;
+}
+.minput6 {
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 550px;
+  margin-bottom: 15px;
+}
+.minput7 {
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 900px;
+  margin-bottom: 15px;
+}
+.sinput input {
+  position: absolute;
+  top: 370px;
+  left: 600px;
+  width: 200px;
+}

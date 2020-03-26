@@ -1,0 +1,48 @@
+body {
+  margin-top: 30px;
+}
+.ticketdetails {
+  margin: 40px;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.detailstable {
+  width: 90%;
+  margin: 10px;
+  margin-left: 5px;
+}
+.detailstable > table,
+th,
+td {
+  border: 1px solid black;
+}
+.detailstable > table {
+  width: 100%;
+}
+
+.detailstable > th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+.detailstable > tr:hover {
+  background-color: #f5f5f5;
+}
+
+.detailstable > th {
+  background-color: #4caf50;
+  color: white;
+}
+.ticketform {
+  background-image: url("../Components/download5.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  margin: 0px;
+}

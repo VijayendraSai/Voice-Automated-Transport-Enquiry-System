@@ -1,0 +1,16 @@
+.navbar-navbar-expand-sm-navbar-dark-px-sm-5 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: rgba(022, 220, 011, 0.3);
+  color: white;
+}
+
+.nav-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
